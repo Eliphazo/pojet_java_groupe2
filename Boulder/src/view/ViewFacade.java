@@ -4,11 +4,11 @@ import  java.awt.Dimension;
 import  java.awt.event.KeyEvent;
 import  java.awt.event.KeyListener;
 
-import java.io.IOException;
-import java.util.ArrayList;
+import  java.io.IOException;
+import  java.util.ArrayList;
 
-import javax.swing.JOptionPane;
-import javax.swing.SwingUtilities;
+import  javax.swing.JOptionPane;
+import  javax.swing.SwingUtilities;
 
 import contract.model.IMap;
 import contract.model.element.mobile.IMobile;
