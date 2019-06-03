@@ -10,12 +10,12 @@ import  java.util.ArrayList;
 import  javax.swing.JOptionPane;
 import  javax.swing.SwingUtilities;
 
-import contract.model.IMap;
-import contract.model.element.mobile.IMobile;
-import contract.view.IView;
+import  contract.model.IMap;
+import  contract.model.element.mobile.IMobile;
+import  contract.view.IView;
 
 /**
- * <h1>The Class ViewFacade provides a facade of the View component.</h1>
+ * <h1> The Class ViewFacade provides a facade of the View component.</h1>
  *
  * @author Maxence Duhoux
  * @version 1.0
